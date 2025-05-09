@@ -1,0 +1,26 @@
+# Cshar_Codes
+
+## 🛠️ Descripción del Proyecto
+
+El programa principal se centra en la administración de obras. Cada obra puede tener un **profesional encargado** y múltiples **obreros** asignados. Está diseñado para ejecutar diversas operaciones comunes en este tipo de sistemas administrativos.
+
+### Funcionalidades principales:
+
+- Listado general de empleados (obreros y profesionales).
+- Listado separado de:
+  - Obreros (con su sueldo y aficiones).
+  - Profesionales (con su sueldo y aficiones).
+- Ingreso de nuevos empleados (tanto obreros como profesionales).
+- Ingreso de nuevas obras.
+- Asignación de obreros a obras existentes.
+- Gestión del profesional a cargo de una obra:
+  - Asignar un nuevo profesional.
+  - Cambiar o eliminar el actual encargado.
+
+## 📁 Estructura del Proyecto
+
+La carpeta principal contiene:
+- Archivos de código fuente (clases, modelos, lógica del programa).
+- Programa principal ejecutable.
+- Clases separadas para **Obra**, **Obrero**, **Profesional**, etc.
+
