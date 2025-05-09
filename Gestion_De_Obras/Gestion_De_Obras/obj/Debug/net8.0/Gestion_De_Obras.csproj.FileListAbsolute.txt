@@ -1,0 +1,14 @@
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\obj\Debug\net8.0\Gestion_De_Obras.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\obj\Debug\net8.0\Gestion_De_Obras.AssemblyInfoInputs.cache
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\obj\Debug\net8.0\Gestion_De_Obras.AssemblyInfo.cs
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\obj\Debug\net8.0\Gestion_De_Obras.csproj.CoreCompileInputs.cache
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\bin\Debug\net8.0\Gestion_De_Obras.exe
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\bin\Debug\net8.0\Gestion_De_Obras.deps.json
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\bin\Debug\net8.0\Gestion_De_Obras.runtimeconfig.json
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\bin\Debug\net8.0\Gestion_De_Obras.dll
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\bin\Debug\net8.0\Gestion_De_Obras.pdb
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\obj\Debug\net8.0\Gestion_De_Obras.dll
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\obj\Debug\net8.0\refint\Gestion_De_Obras.dll
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\obj\Debug\net8.0\Gestion_De_Obras.pdb
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\obj\Debug\net8.0\Gestion_De_Obras.genruntimeconfig.cache
+F:\Estudios\guardar para formateo\UTN\Plan 2024\Tercer cuatrimestre\Programacion III\C#\Gestion_De_Obras\Gestion_De_Obras\obj\Debug\net8.0\ref\Gestion_De_Obras.dll
