@@ -1,0 +1,12 @@
+Un programa que se me fue dado para un ejercicio **tipo-parcial**. Su funcionalidad es basica.
+//
+El programa trata de una sucursal de camiones que guardan los datos:
+  . Kilometraje recorrido
+  . Kilometraje minimo
+  . Valor por kilometraje
+  . Dominio (patente)
+//
+Se ingresan dos valores que se volveran estaticos dentro de la clase, estos dos valores son de suma importancia ya que el programa entero es alrededor de estos dos.
+Luego empieza la carga de datos hasta que el usuario decida ponerle "FIN" al ingreso.
+La impresion de datos comenzara mostrando cada viaje, patente, costo, peajes, etc, que tuvo este.
+Al final del programa de mostrara cual fue el viaje mas costoso hasta el momento.
